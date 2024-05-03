@@ -239,3 +239,7 @@
 //    return [a,b]
 // }
 // console.log(swap(6,7))
+
+let a=2
+let b=8
+console.log(a+b)
